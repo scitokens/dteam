@@ -1,4 +1,5 @@
 {  
    "issuer":"https://scitokens.org/dteam",
-   "jwks_uri":"https://scitokens.org/dteam/oauth2/certs"
+   "jwks_uri":"https://scitokens.org/dteam/oauth2/certs",
+   "token_endpoint":"https://dteam.scitokens.org/token"
 }
