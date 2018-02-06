@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+title: Dteam Issuer for SciTokens
+description: Federated Authorization Ecosystem for Distributed Scientific Computing
+include: [".well-known"]

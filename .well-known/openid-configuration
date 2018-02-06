@@ -1,0 +1,4 @@
+{  
+   "issuer":"https://scitokens.org/dteam",
+   "jwks_uri":"https://scitokens.org/dteam/oauth2/certs"
+}
